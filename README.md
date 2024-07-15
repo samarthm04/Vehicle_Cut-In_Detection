@@ -15,7 +15,7 @@ While precision scores and other typical performance metrics provide some insigh
 - [Methodology](#methodology)
   - [Object Detection](#object-detection)
   - [Time to Collision (TTC) Calculation](#time-to-collision-ttc-calculation)
-  - [Lane Creation](#lane-creation)![Untitled](https://github.com/user-attachments/assets/3e0cd5c0-658b-4a59-94b9-3bd7523dcbed)
+  - [Lane Creation](#lane-creation)
 
   - [Cut-in Detection](#cut-in-detection)
 - [Challenges Faced](#challenges-faced)
