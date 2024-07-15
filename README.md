@@ -2,6 +2,8 @@
 # Vehicle Cut-in and Collision Detection for Indian Roads
 
 ## Overview
+![Untitled](https://github.com/user-attachments/assets/9559915f-26e9-4970-bf1f-d4bbcb7a2633)
+
 This project implements a robust system for vehicle cut-in and collision detection specifically tailored for the challenging and unstructured road environments typical of countries like India. Traditional lane tracking systems often fail in such conditions due to the lack of clear lane markings and the chaotic nature of the traffic. Our system addresses these issues by leveraging a fine-tuned YOLOv8 model for object detection, custom methodologies for dynamic lane area creation, and a sophisticated approach to Time to Collision (TTC) calculation. Despite the complexities of disorganized roads and limited computational resources, the project demonstrates significant potential for improving road safety.
 
 While precision scores and other typical performance metrics provide some insight into the model's effectiveness, they do not fully capture the robustness and versatility of our approach. Our focus is on accurately detecting objects that enter the region of interest, irrespective of their tags, ensuring timely and reliable warnings. This makes the system highly adaptable to a variety of unstructured environments, providing critical safety features where they are most needed.
@@ -13,7 +15,8 @@ While precision scores and other typical performance metrics provide some insigh
 - [Methodology](#methodology)
   - [Object Detection](#object-detection)
   - [Time to Collision (TTC) Calculation](#time-to-collision-ttc-calculation)
-  - [Lane Creation](#lane-creation)
+  - [Lane Creation](#lane-creation)![Untitled](https://github.com/user-attachments/assets/3e0cd5c0-658b-4a59-94b9-3bd7523dcbed)
+
   - [Cut-in Detection](#cut-in-detection)
 - [Challenges Faced](#challenges-faced)
 - [Technologies Used](#technologies-used)
